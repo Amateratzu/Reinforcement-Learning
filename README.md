@@ -10,6 +10,6 @@ Here you will find three notebooks:
 * **`0.1Principal_RL_FinalNotebook_convergenceTime.ipynb`**: Implements convergence methods and compares their performance.
 * **`0.2Principal_RL_FinalNotebook_dilemma.ipynb`**: Discusses the exploration-exploitation dilemma in the Q-Learning algorithm.
 
-## Acknowledgment
+### Who may be interested
 
 Why three notebooks? As a beginner, I was cautious about potentially disrupting code that was already working, so I created copies to implement new ideas safely. Thank you for your understanding.
