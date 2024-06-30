@@ -7,8 +7,8 @@ In this project, we aim to find the optimal policy for the Frozen Lake problem u
 Here you will find three notebooks:
 
 * **`0.0Principal_RL_FinalNotebook.ipynb`**: Contains the main theory, initial exploration of the environment, and primary results.
-* **`0.1Principal_RL_FinalNotebook_convergenceTime.ipynb`**: Implements convergence methods and compares their performance.
-* **`0.2Principal_RL_FinalNotebook_dilemma.ipynb`**: Discusses the exploration-exploitation dilemma in the Q-Learning algorithm.
+* **`0.1RL_FinalNotebook_convergenceTime.ipynb`**: Implements convergence methods and compares their performance.
+* **`0.2RL_FinalNotebook_dilemma.ipynb`**: Discusses the exploration-exploitation dilemma in the Q-Learning algorithm.
 
 ### Who may be interested
 
